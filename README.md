@@ -1,5 +1,9 @@
 ```c
-#include<stdio.h>/*mitchell@sdf.org :)*/
-int main(){int x=1,y;for(;x++;)/*hello*/
-for(y=2;x%y;)printf(++y/x+"\0%d\n",x);}
+#include <stdio.h>/*---use GCC to compile---*/
+/* #   #  */int main(){int k;for(float x,y=-2,
+/*# # # # */u,v,w,z;(y+=.05)<2;puts("")){for(x
+/*#  #  #*/=-2;(x+=.03)<1;putchar(k>26?32:97+k)
+/*#  #  #*/){for(u=v=w=z=k=0;k++<99&&w+z<4;z=v*
+/*#  #  # itchell*/v,w=u*u)v=2*u*v+y-1,u=w-z+x;
+/*----------=[mitchell@sdf.org]=----------*/}}}
 ```

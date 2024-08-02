@@ -13,6 +13,7 @@ If you are contacting me regarding a security issue, please encrypt your communi
 
 <details>
   <summary><strong>PGP Public Key</strong></summary>
+  <br>
   
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----

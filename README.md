@@ -1,11 +1,10 @@
 ```c
-#include <stdio.h>/*---use GCC to compile---*/
-/* #   #  */int main(){int k;for(float x,y=-2,
-/*# # # # */u,v,w,z;(y+=.05)<2;puts("")){for(x
-/*#  #  #*/=-2;(x+=.03)<1;putchar(k>26?32:97+k)
-/*#  #  #*/){for(u=v=w=z=k=0;k++<99&&w+z<4;z=v*
-/*#  #  # itchell*/v,w=u*u)v=2*u*v+y-1,u=w-z+x;
-/*-----=[10245102450@stu.ecnu.edu.cn]=----*/}}}
+#include <stdio.h>/* Use GCC to compile */
+float x,y=1,s=1./128,X,Y,V;int main(int i)
+{for(puts("P5 257 127 50");X=Y=0,x?x+=s,1:
+(x=-2,y-=s);putchar(i)){for(i=64;--i&&X*X+
+(V=Y*Y)<4;X=X*X-V+x)Y=2*X*Y+y;}}/*>a.pgm*/
+/*Mitchell <10245102450@stu.ecnu.edu.cn>*/
 ```
 ```bash
 perl -e 'print pack "H*", "6d69746368656c6c407364662e6f72670a"' /. ate my sig. You fool

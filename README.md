@@ -7,6 +7,9 @@
 /*#  #  # itchell*/v,w=u*u)v=2*u*v+y-1,u=w-z+x;
 /*-----=[10245102450@stu.ecnu.edu.cn]=----*/}}}
 ```
+```bash
+perl -e 'print pack "H*", "6d69746368656c6c407364662e6f72670a"' /. ate my sig. You fool
+```
 
 ### PGP
 If you are contacting me regarding a security issue, please encrypt your communications using PGP.

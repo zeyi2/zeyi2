@@ -1,16 +1,79 @@
-## Hi there 👋
+### Mail
+mitchell@segfault.net
 
-<!--
-**zeyi2/zeyi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### PGP
 
-Here are some ideas to get you started:
+<details>
+  <summary><strong>PGP Public Key</strong></summary>
+  <br>
+  
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+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
+=4cPE
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
+</details>
+<details>
+  <summary><strong>Key Details</strong></summary>
+<br>
+
+**Key Type:** RSA
+
+**Expires:** Never
+
+**Key Size:** 4096/4096
+
+**Fingerprint:** E956 A6FF 39A5 76BE F11B 10C3 B030 E678 7331 3AB1
+
+**UserID:** Mitchell
+</details>
+

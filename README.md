@@ -1,6 +1,6 @@
 # Info
 
-Sometimes I translate stuff, sometimes I do some programming, often I do both. That's basically everything.
+Sometimes I translate stuff, sometimes I do some programming, often I do both.
 
 ### Mail
 mitchell@segfault.net
